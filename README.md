@@ -58,6 +58,8 @@ https://www.interdb.jp/pg/pgsql07.html
 
 https://www.interdb.jp/pg/pgsql05.html
 
+Chapter 2 of https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
+
 ## Other
 https://www.interdb.jp/pg/pgsql04.html
 
