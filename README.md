@@ -64,6 +64,10 @@ Part 1 (Chapter 2-8) of https://edu.postgrespro.com/postgresql_internals-14_part
 
 Part 3 (Chapter 12-15) of https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
 
+## Json and JsonB
+
+https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/
+
 ## Other
 https://www.interdb.jp/pg/pgsql04.html
 
