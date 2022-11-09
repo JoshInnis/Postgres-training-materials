@@ -58,9 +58,14 @@ https://www.interdb.jp/pg/pgsql07.html
 
 https://www.interdb.jp/pg/pgsql05.html
 
-Chapter 2 of https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
+Part 1 (Chapter 2-8) of https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
+
+### Locks
+
+Part 3 (Chapter 12-15) of https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
 
 ## Other
 https://www.interdb.jp/pg/pgsql04.html
 
-
+Buffer and WAL
+Part 2 (Chapter 9-11) https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
