@@ -54,6 +54,14 @@ https://habr.com/en/company/postgrespro/blog/448746/
 ### Heap Only Tuple Scans and Index Scans
 https://www.interdb.jp/pg/pgsql07.html
 
+## Joins and Sorting
+
+### Merge Joins and Sorting Strategies
+
+https://postgrespro.com/blog/pgsql/5969770
+
+
+
 ## Transaction System and Updating Data
 
 https://www.interdb.jp/pg/pgsql05.html
