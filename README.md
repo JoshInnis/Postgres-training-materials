@@ -60,8 +60,6 @@ https://www.interdb.jp/pg/pgsql07.html
 
 https://postgrespro.com/blog/pgsql/5969770
 
-
-
 ## Transaction System and Updating Data
 
 https://www.interdb.jp/pg/pgsql05.html
@@ -81,3 +79,9 @@ https://www.interdb.jp/pg/pgsql04.html
 
 Buffer and WAL
 Part 2 (Chapter 9-11) https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
+
+## Generalized Intro to Databases (Focus on the Storage Engine and Distribution)
+
+[Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/B0BQZDLK38/)
+
+Written to generalize all database, with a focus on MySQL and Postgres. Could be a little confusing if you are a beginner who only cares about Postgres, but its a great read, well organized, packed with lot of good information for anyone who wants get started building databases.
