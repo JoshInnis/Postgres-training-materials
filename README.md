@@ -82,6 +82,6 @@ Part 2 (Chapter 9-11) https://edu.postgrespro.com/postgresql_internals-14_parts1
 
 ## Generalized Intro to Databases (Focus on the Storage Engine and Distribution)
 
-[Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/B0BQZDLK38/)
+[Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 Written to generalize all database, with a focus on MySQL and Postgres. Could be a little confusing if you are a beginner who only cares about Postgres, but its a great read, well organized, packed with lot of good information for anyone who wants get started building databases.
