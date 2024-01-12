@@ -85,3 +85,25 @@ Part 2 (Chapter 9-11) https://edu.postgrespro.com/postgresql_internals-14_parts1
 [Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 Written to generalize all database, with a focus on MySQL and Postgres. Could be a little confusing if you are a beginner who only cares about Postgres, but its a great read, well organized, packed with lot of good information for anyone who wants get started building databases.
+
+## Table Access Methods
+
+https://www.postgresql.org/docs/current/tableam.html
+https://www.postgresql.fastware.com/blog/postgresql-table-access-methods
+
+### OrioleDB Architecture (Non-MVCC,  OLTP)
+
+[OrioleDB](https://github.com/orioledb/orioledb/blob/main/doc/arch.md#orioledb-architecture)
+
+### Hydra (ColumnStore OLAP)
+
+[Hydra](https://github.com/hydradatabase/hydra/tree/main)
+
+### Zedstore (ColumnStore OLAP)
+
+https://github.com/greenplum-db/postgres/tree/zedstore
+https://www.postgresql.org/message-id/CALfoeiuF-m5jg51mJUPm5GN8u396o5sA2AF5N97vTRAEDYac7w%40mail.gmail.com
+https://news.ycombinator.com/item?id=24761008
+Source Code? https://github.com/greenplum-db/postgres/tree/zedstore
+https://blogs.vmware.com/opensource/2020/07/14/zedstore-compressed-columnar-storage-for-postgres/
+https://www.pgcon.org/events/pgcon_2020/sessions/session/44/slides/13/Zedstore-PGCon2020-Virtual.pdf
