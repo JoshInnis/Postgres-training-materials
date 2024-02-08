@@ -9,6 +9,8 @@ https://edu.postgrespro.com/postgresql_internals-14_parts1-3_en.pdf
 
 https://www.postgresql.org/docs/current/internals.html
 
+https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+
 ## How a Postgres Works (High Level)
 
 https://www.interdb.jp/pg/pgsql01.html
