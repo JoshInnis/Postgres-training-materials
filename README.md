@@ -56,6 +56,11 @@ https://habr.com/en/company/postgrespro/blog/448746/
 ### Heap Only Tuple Scans and Index Scans
 https://www.interdb.jp/pg/pgsql07.html
 
+## Column Store Indices
+
+[Hydra](https://github.com/hydradatabase/hydra/tree/main)
+https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf
+
 ## Joins and Sorting
 
 ### Merge Joins and Sorting Strategies
